@@ -1,4 +1,7 @@
 # Image Builder for Archlinux on an Allwinner D1 / Sipeed Lichee RV
+
+Test
+
 These scripts compile, copy, bake, unpack and flash a [ready](https://wiki.archlinux.org/title/installation_guide#Configure_the_system) to use RISC-V Archlinux.  
 *With "ready to use" i mean that it boots, you still need to configure everything!*
 
